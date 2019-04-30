@@ -1,0 +1,44 @@
+table {
+	width: 100%;
+	height: auto;
+}
+
+td {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+tr {
+	margin: 0;
+	padding: 0;
+}
+.border {
+	border-left: 1px solid gray;
+	border-top: 1px solid gray;
+	border-bottom: 2px solid black;
+	font-weight: bold;
+}
+.border1 {
+	border-left: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+th {
+	width: 15%;
+}
+
+.id {
+	width: 5%;
+}
+.Nav_link:link {
+	color: black;
+	text-decoration: none;
+}
+.Nav_link:visited {
+	color: red;
+}
+.Nav_link:hover {
+	color: green;
+}
+.Nav_link:active {
+	color: teal;
+}

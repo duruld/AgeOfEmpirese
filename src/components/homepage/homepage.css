@@ -1,0 +1,10 @@
+.homePageContainer {
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+img {
+	width: 60%;
+	display: block;
+	margin: 40px auto;
+}

@@ -1,0 +1,49 @@
+.containerCost {
+	width: 75%;
+	height: auto;
+	margin-bottom: 25px;
+}
+
+.check {
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+	margin-top: 3px;
+	color: black;
+	text-decoration: none;
+}
+
+.rangeName {
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+}
+
+.range {
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+}
+.score {
+	float: left;
+	margin: 0;
+	padding: 0;
+	margin-left: 10px;
+}
+
+.Wood {
+	margin-top: 15px;
+	height: 30px;
+	clear: both;
+}
+.Food {
+	height: 30px;
+	clear: both;
+}
+.Gold {
+	height: 30px;
+	clear: both;
+}

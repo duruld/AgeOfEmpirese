@@ -1,0 +1,15 @@
+.menuContainer {
+	width: 30%;
+	height: 30px;
+	float: right;
+}
+
+.texts {
+	display: block;
+	float: right;
+	padding-right: 10px;
+	width: 50px;
+	margin: 0;
+	color: blue;
+	text-decoration: underline;
+}

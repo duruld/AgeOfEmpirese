@@ -7,12 +7,9 @@ import { AgeFilter } from "../../utils/AgeFilter"
 import { CostFilter } from "../../utils/CostFilter"
 
 import "./table.css"
-import { getFilteredList } from "./Selector"
-import { createStructuredSelector } from "reselect"
 
 class Table extends React.Component {
 	componentDidMount() {
-		console.log("haydar")
 		this.props.showUnits()
 	}
 
